@@ -6,4 +6,6 @@ build:
 serve:
 	pipenv run mkdocs serve -s
 publish_on_kaka_farm: build
-	rsync -Pav public/ $(PUBLISH_TO_KAKA_FARM_TARGET)
+	rsync -Pav public/ $(KAKA_FARM_SERVER):$(KAKA_FARM_BLOG_PATH)
+clean_kaka_farm:
+	ssh $(KAKA_FARM_SERVER) rm -rvf $(KAKA_FARM_BLOG_PATH)

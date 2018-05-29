@@ -1,8 +1,34 @@
+# Project information
+# https://www.mkdocs.org/user-guide/configuration/#project-information
+
 site_name: Kaka Farm
-theme: readthedocs
+site_url: https://kaka.farm/blog/      
+repo_url: https://gitlab.com/yuvallanger/kaka.farm
+repo_name: GitLab
+edit_uri: edit/master/docs/
+site_description: A personal blog
+site_author: Yuval Langer
+
+# Documentation layout
+# https://www.mkdocs.org/user-guide/configuration/#documentation-layout
+
 pages:
 - Home: 'index.md'
 - Essays:
-    - 2018:
-            - 05: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
+    - May 2018:
+        - The Thriving Meme Mining Ghost Town of Hollywood: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
 - About: 'about.md'
+
+# Build directories
+# https://www.mkdocs.org/user-guide/configuration/#build-directories
+
+theme: readthedocs
+
+# Formatting options
+# https://www.mkdocs.org/user-guide/configuration/#formatting-options
+
+# plugins
+# https://www.mkdocs.org/user-guide/configuration/#plugins
+
+plugins:
+    - search
