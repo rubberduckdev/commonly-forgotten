@@ -13,11 +13,11 @@ site_author: Yuval Langer
 # https://www.mkdocs.org/user-guide/configuration/#documentation-layout
 
 pages:
-- Home: 'index.md'
-- Essays:
-    - May 2018:
-        - The Thriving Meme Mining Ghost Town of Hollywood: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
-- About: 'about.md'
+    - Home: 'index.md'
+    - Essays:
+        - May 2018:
+            - The Thriving Meme Mining Ghost Town of Hollywood: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
+    - About: 'about.md'
 
 # Build directories
 # https://www.mkdocs.org/user-guide/configuration/#build-directories
