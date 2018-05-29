@@ -1,0 +1,8 @@
+site_name: Kaka Farm
+theme: readthedocs
+pages:
+- Home: 'index.md'
+- Essays:
+    - 2018:
+            - 05: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
+- About: 'about.md'
