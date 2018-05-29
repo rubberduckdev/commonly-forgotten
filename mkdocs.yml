@@ -16,7 +16,7 @@ pages:
     - Home: 'index.md'
     - Essays:
         - May 2018:
-            - The Thriving Meme Mining Ghost Town of Hollywood: '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
+            - '[WIP] The Thriving Meme Mining Ghost Town of Hollywood': '2018/05/the-thriving-meme-mining-ghost-town-of-hollywood.md'
     - About: 'about.md'
 
 # Build directories

@@ -1,4 +1,4 @@
-# The Thriving Meme Mining Ghost Town of Hollywood
+# [WIP] The Thriving Meme Mining Ghost Town of Hollywood
 
 Melancholy Elephants by Spyder Robinson was wrong.  Old ideas are
 known to everybody. The website [TV Tropes] catalogues and publishes
