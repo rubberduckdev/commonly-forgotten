@@ -35,7 +35,7 @@ fiction. It does not deter film makers, computer game developers,
         - Culture is not only created, but experienced, remembered, reused, and taught.
 
 
-[Diverity index]: https://en.wikipedia.org/wiki/Diversity_index
+[Diversity index]: https://en.wikipedia.org/wiki/Diversity_index
 [Mr. Plinkett's Titanic Review]: https://www.youtube.com/watch?v=WHiceVim9Wg
 [rosenjcb]: https://www.youtube.com/channel/UCRXWBzWj8Hkv-TPPuVFGcAQ
 [The Bell Curve clip]: https://www.youtube.com/watch?v=CMmZq0rTpA0
