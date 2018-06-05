@@ -2,3 +2,4 @@ secret-config.mk
 public/
 /site/
 *.swp
+output/

@@ -4,9 +4,5 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-mkdocs = "~=0.17"
-
-[dev-packages]
-
-[requires]
-python_version = "3.6"
+pelican = "*"
+markdown = "*"

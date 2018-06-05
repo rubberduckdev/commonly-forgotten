@@ -1,0 +1,2 @@
+TIMEZONE = "UTC"
+PATH = "content/"

@@ -1,3 +1,7 @@
+title: The Thriving Meme Mining Ghost Town of Hollywood
+date: 2018-05-29
+status: draft
+
 # [WIP] The Thriving Meme Mining Ghost Town of Hollywood
 
 Melancholy Elephants by Spyder Robinson was wrong.  Old ideas are
