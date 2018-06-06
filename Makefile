@@ -10,7 +10,12 @@ kaka.farm:
 		--ignore-cache \
 		--delete-output-directory \
 		-s pelican_publication_configuration.py
-	rsync -Pv output/ blog.kakafarm:/var/www/kaka-farm-blog/
+	rsync \
+	       --progress \
+	       --verbose \
+	       --archive \
+	       output/ \
+	       blog.kakafarm:/var/www/kaka-farm-blog/
 
 .PHONY: gitlab
 gitlab:
