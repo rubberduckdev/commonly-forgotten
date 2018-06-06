@@ -1,5 +1,6 @@
 title: The Thriving Meme Mining Ghost Town of Hollywood
 date: 2018-05-29
+tags: draft
 
 # [WIP] The Thriving Meme Mining Ghost Town of Hollywood
 

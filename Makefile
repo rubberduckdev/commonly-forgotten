@@ -4,6 +4,14 @@ build:
 		--ignore-cache \
 		-s pelican_publication_configuration.py
 
+.PHONY: kaka.farm
+kaka.farm:
+	pipenv run pelican \
+		--ignore-cache \
+		--delete-output-directory \
+		-s pelican_publication_configuration.py
+	rsync -Pv output/ blog.kakafarm:/var/www/kaka-farm-blog/
+
 .PHONY: gitlab
 gitlab:
 	pipenv run pelican \

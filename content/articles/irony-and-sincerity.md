@@ -1,5 +1,6 @@
 title: irony versus sincerity in conversations
 date: 2018-06-05
+tags: draft
 
 # irony versus sincerity in conversations
 
