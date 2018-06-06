@@ -3,3 +3,5 @@ public/
 /site/
 *.swp
 output/
+pelican_base_configuration.pyc
+__pycache__
