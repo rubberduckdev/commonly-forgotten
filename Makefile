@@ -14,6 +14,7 @@ kaka.farm:
 	       --progress \
 	       --verbose \
 	       --archive \
+	       --delete-after \
 	       output/ \
 	       blog.kakafarm:/var/www/kaka-farm-blog/
 
