@@ -2,8 +2,6 @@ title: The Thriving Meme Mining Ghost Town of Hollywood
 date: 2018-05-29
 tags: draft
 
-# [WIP] The Thriving Meme Mining Ghost Town of Hollywood
-
 Melancholy Elephants by Spyder Robinson was wrong.  Old ideas are
 known to everybody. The website [TV Tropes] catalogues and publishes
 all known elements used in writing of fiction. From novels to computer

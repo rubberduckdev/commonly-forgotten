@@ -2,9 +2,7 @@ title: irony versus sincerity in conversations
 date: 2018-06-05
 tags: draft
 
-# irony versus sincerity in conversations
-
-## Possible topics
+# Possible topics
 - roles of irony in voicing unpopular opinions (I am not sure how much each of these play a role generally):
     - showing a low level of commitment to one's opinions to others.
 
