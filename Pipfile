@@ -6,3 +6,4 @@ name = "pypi"
 [packages]
 pelican = "*"
 markdown = "*"
+markdown-checklist = "*"

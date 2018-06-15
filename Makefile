@@ -28,6 +28,16 @@ gitlab:
 .PHONY: dev
 dev:
 	pipenv run pelican \
+		--ignore-cache \
+		--verbose \
+		-s pelican_development_configuration.py \
+		; \
+	pipenv run pelican \
 		--autoreload \
 		--ignore-cache \
-		-s pelican_development_configuration.py
+		--verbose \
+		-s pelican_development_configuration.py \
+		& \
+	cd output \
+		; \
+	python3 -m http.server --bind localhost 8000
