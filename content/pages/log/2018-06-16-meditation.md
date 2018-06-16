@@ -1,4 +1,4 @@
-title: meditation log
+title: meditation log - 2018-06-16
 tags: meditation, log
 date: 2018-06-16
 status: hidden
