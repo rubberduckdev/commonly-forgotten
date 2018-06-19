@@ -1,7 +1,6 @@
 title: meditation log - 2018-06-15
 tags: meditation, log
 date: 2018-06-15
-status: hidden
 
 - Goals for the session:
     - Session length: 20 min
