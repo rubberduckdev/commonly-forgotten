@@ -1,6 +1,6 @@
-title: convict conditioning - 2018-06-17
+title: convict conditioning - 2018-06-19
 tags: conditioning, log
-date: 2018-06-17
+date: 2018-06-19
 status: hidden
 
 10:00Z:
