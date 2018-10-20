@@ -13,6 +13,7 @@ TAG_FEED_RSS = "feeds/tags/%s.rss.xml"
 MARKDOWN = {
     "extension_configs": {
         "markdown_checklist.extension": {},
+        "markdown.extensions.tables": {},
     },
     "output_format": "html5",
 }
