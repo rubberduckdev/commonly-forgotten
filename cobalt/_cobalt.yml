@@ -1,0 +1,7 @@
+
+site:
+  title: cobalt blog
+  description: Blog Posts Go Here
+  base_url: http://kaka.farm
+posts:
+  rss: rss.xml

@@ -5,3 +5,4 @@ public/
 output/
 pelican_base_configuration.pyc
 __pycache__
+*~
