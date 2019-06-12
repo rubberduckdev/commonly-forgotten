@@ -1,13 +1,10 @@
-image: python:3.6
+image: nott/cobalt:latest
 
 pages:
   stage: deploy
   script:
-  - python3 -m pip install -U pip
-  - pip install pipenv
-  - pipenv install
-  - make gitlab
-  - mv output public
+  - cd cobalt
+  - cobalt build -d public
   artifacts:
     paths:
     - public/
