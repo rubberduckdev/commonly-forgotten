@@ -6,3 +6,4 @@ output/
 pelican_base_configuration.pyc
 __pycache__
 *~
+/_site/
