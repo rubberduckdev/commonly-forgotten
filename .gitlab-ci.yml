@@ -1,9 +1,11 @@
-image: nott/cobalt:latest
+image: alpine:latest
 
 pages:
   stage: deploy
   script:
-  - cobalt build -d public
+  - wget https://github.com/cobalt-org/cobalt.rs/releases/download/v0.15.4/cobalt-v0.15.4-x86_64-unknown-linux-gnu.tar.gz
+  - tar xvf cobalt-v0.15.4-x86_64-unknown-linux-gnu.tar.gz
+  - ./cobalt build -d public
   artifacts:
     paths:
     - public/
