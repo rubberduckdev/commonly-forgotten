@@ -1,11 +1,9 @@
 ---
 layout: default.liquid
 
-title: Targeting wasm32 with Quicksilver and friends.
+title: Making Quicksilver and friends play nice with wasm32.
 is_draft: true
 ---
-
-# Making Quicksilver work with wasm32.
 
 ## Disclaimer:
 
