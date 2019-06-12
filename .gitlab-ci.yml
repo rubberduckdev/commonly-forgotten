@@ -1,13 +1,13 @@
-image: alpine:latest
+image: ubuntu:latest
 
 pages:
   stage: deploy
   script:
+  - apt-get update
+  - apt-get install -y wget make
   - wget https://github.com/cobalt-org/cobalt.rs/releases/download/v0.15.4/cobalt-v0.15.4-x86_64-unknown-linux-gnu.tar.gz
   - tar xvf cobalt-v0.15.4-x86_64-unknown-linux-gnu.tar.gz
-  - cp cobalt /usr/bin/
-  - cp cobalt /bin/
-  - cobalt build -d public
+  - make gitlab-ci
   artifacts:
     paths:
     - public/
