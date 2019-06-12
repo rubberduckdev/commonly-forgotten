@@ -6,3 +6,6 @@ build:
 
 build-drafts:
 	cobalt build --drafts
+
+gitlab-ci:
+	./cobalt build -d public
